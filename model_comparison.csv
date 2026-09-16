@@ -1,0 +1,4 @@
+Model,Train Accuracy,Test Accuracy
+Decision Tree (unrestricted),1.0,0.7049180327868853
+Decision Tree (max_depth=4),0.9049586776859504,0.7868852459016393
+Random Forest (200 trees),1.0,0.819672131147541
